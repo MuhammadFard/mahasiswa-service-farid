@@ -1,0 +1,5 @@
+com\farid\mahasiswa\service\entity\Mahasiswa.class
+com\farid\mahasiswa\service\MahasiswaServiceApplication.class
+com\farid\mahasiswa\service\service\MahasiswaService.class
+com\farid\mahasiswa\service\repository\MahasiswaRepository.class
+com\farid\mahasiswa\service\controller\MahasiswaController.class
